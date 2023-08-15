@@ -4,7 +4,6 @@ public class Application1 {
 
 	// method
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 	//	Animal animal1 = new Animal();
 	//	animal1.setLegs(2);
 	//	animal1.setName("Kangaroo");
